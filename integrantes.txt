@@ -1,0 +1,25 @@
+integrantes:
+
+JOSE IGNACIO DIAZ DIAZ 
+ROGER DE JESUS FERIS MONTOYA
+
+-----------------------------------------
+
+USUARIOS EN LA BASE DE DATOS
+-----------------------------------------
+CLIENTES
+--------------
+cami@example.com 
+pass: homelogi7
+-----------------
+andy@example.com
+pass: homelogi0
+-------------------
+
+ADMINISTRADORES
+-------------------
+jose@example.com
+pass: homelogi6
+-------------------
+roger@example.com
+pass: homelogi5
